@@ -1,0 +1,51 @@
+ h1 {
+     color: blue;
+     font-size: 75px;
+ }
+
+ h1,
+ a {
+     border: 4px;
+     border-radius: 10px;
+     background-color: aqua;
+     text-transform: uppercase;
+ }
+
+ a {
+     color: orange;
+ }
+
+ html {
+     color: black;
+ }
+
+
+ span {
+     font-size: 100%;
+     color: black;
+ }
+
+ li {
+     font-size: medium;
+ }
+
+ .asep {
+     text-transform: uppercase;
+     color: blueviolet;
+
+ }
+
+ .barcelona {
+     color: deepskyblue;
+ }
+
+ table,
+ th,
+ td {
+     border: 15px solid white;
+ }
+
+ table {
+     width: 10%;
+ }
+ 
